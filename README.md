@@ -1,4 +1,4 @@
-# fossasia.sg
-FOSSASIA.sg
+# https://2019.fossasia.org ( formerly : fossasia.sg )
+https://2019.fossasia.org
 
-https://fossasia.sg
+https://2019.fossasia.org
